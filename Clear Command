@@ -2,4 +2,4 @@ from os import system,name
 def clear():
   if name == 'nt':
     _ = system('cls')
-#Type clear() to clear the GUI
+# Type clear() to clear the GUI
